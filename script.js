@@ -27,7 +27,7 @@ const febHolidays = [
     "To l'amour",
     "ek mo l'amour",
     "fr 2 liv pomme d'amour🤣❤️",
-    "But anyways, Happy 1 month my sweet little girlfriend(wife🤭)",
+    "But anyways, Happy 9 month my sweet little girlfriend(wife🤭)",
     "You're the love of my life,",
     "I Love You So much raat me pineapple flavour❤️"
   ];
